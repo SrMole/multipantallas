@@ -1,16 +1,17 @@
-# multipantallas
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/14845203/190489800-59a8b8c6-353f-4537-bb7e-0c0a63ef1109.png" alt="JuveYell" width="300px">
 
-A new Flutter project.
+# Faculty of Mechanical and Electrical Engineering
 
-## Getting Started
+## Intelligent Computing Engineering
 
-This project is a starting point for a Flutter application.
+### Course: Mobile Devices
+### Student: Manzano Morales Jesús Emilio
+### Professor: Verduzco Ramírez Jesús Alberto
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project: Multi-Form Application in Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a mobile application developed in **Flutter** that provides a user-friendly interface for a basic authentication system. The design includes a welcoming screen and login functionality, offering a seamless and intuitive user experience.
+</div>

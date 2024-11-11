@@ -6,7 +6,10 @@
 ## Intelligent Computing Engineering
 
 ### Course: Mobile Devices
-### Student: Manzano Morales Jesús Emilio
+### Students: 
+### Manzano Morales Jesús Emilio
+### Ana Isabel Sanchez Heredia
+### Zamora Guerrero Rafael
 ### Professor: Verduzco Ramírez Jesús Alberto
 
 ---
